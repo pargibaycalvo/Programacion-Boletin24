@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="Botoncancel" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="BotonAcept" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="Mensajetxt" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="Nombreusuario" min="-2" max="-2" attributes="0"/>
+                          <Component id="Nombrecompleto" min="-2" max="-2" attributes="0"/>
+                          <Component id="Idusuario" min="-2" max="-2" attributes="0"/>
+                          <Component id="Grupo1" min="-2" max="-2" attributes="0"/>
+                          <Component id="Directorio" min="-2" max="-2" attributes="0"/>
+                          <Component id="Logear" min="-2" max="-2" attributes="0"/>
+                          <Component id="Contraseña" min="-2" max="-2" attributes="0"/>
+                          <Component id="Confirmarcontraseña" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="Password" alignment="0" pref="171" max="32767" attributes="0"/>
+                          <Component id="Confirm" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Loginshell" alignment="0" min="-2" pref="122" max="-2" attributes="0"/>
+                          <Component id="Homedirectory" max="32767" attributes="0"/>
+                          <Component id="UserID" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Fullname" max="32767" attributes="0"/>
+                          <Component id="Username" max="32767" attributes="0"/>
+                          <Component id="Group" alignment="0" min="-2" pref="74" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="15" max="32767" attributes="0"/>
+              <Component id="Mensajetxt" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Username" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Nombreusuario" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Fullname" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Nombrecompleto" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="UserID" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Idusuario" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Group" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Grupo1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Homedirectory" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Directorio" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Loginshell" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Logear" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Password" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Contraseña" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Confirm" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Confirmarcontraseña" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="BotonAcept" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Botoncancel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="BotonAcept">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="OK"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Botoncancel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cancel"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JPasswordField" name="Password">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jPasswordField1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PasswordActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JPasswordField" name="Confirm">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jPasswordField2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Loginshell">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="bin/ksh"/>
+            <StringItem index="1" value="bin/khs"/>
+            <StringItem index="2" value="bin/xsd"/>
+            <StringItem index="3" value="bin/32"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Homedirectory">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="(automatic)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Group">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="staff"/>
+            <StringItem index="1" value="steff"/>
+            <StringItem index="2" value="stiff"/>
+            <StringItem index="3" value="stoff"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="GroupActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="UserID">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="(automatic)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Fullname">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="user pedro"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Username">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="pedro"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Nombreusuario">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="User Name:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Nombrecompleto">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Full Name:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Idusuario">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="User ID:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Grupo1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Group:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Directorio">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Home Directory:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Logear">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Login Shell:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Contrase&#xf1;a">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Password:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Confirmarcontrase&#xf1;a">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Confirm:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Mensajetxt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Create a new user"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
